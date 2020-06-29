@@ -1,0 +1,73 @@
+ChangeLog
+=========
+
+version 0.2.0 (2010.05.18)
+--------------------------
+
+    - New Feature: new infomation add, it's function callers table.
+
+version 0.1.10 (2010.04.28)
+---------------------------
+
+  - Fixed table sort not avail when used IE.
+  - Improved HTML output
+
+version 0.1.9 (2010.03.10)
+--------------------------
+
+  - Fixed release bug
+
+version 0.1.8 (2010.03.10)
+--------------------------
+
+  - New Feature, sorted to profile data table.
+
+version 0.1.7 (2009.10.14)
+--------------------------
+
+  - Improved HTML output(link to method-line)
+  - Fixed unicode error when Jinja2 template rendering.
+  - Fixed 'total time' and 'total func call' not display in linetiming html
+
+version 0.1.6 (2009.07.15)
+--------------------------
+
+  - Fixed '-o' option can not used.
+  - Fixed last source not printed int linetimings HTML.
+
+version 0.1.5 (2009.07.14)
+--------------------------
+
+  - Fixed count-up logic in linetimings data.
+  - Fixed overwrite to same name file. (__init__.py etc...)
+
+version 0.1.4 (2009.07.09)
+--------------------------
+
+  - Improved HTML output
+  - Fixed remove link of not exist file
+
+version 0.1.3 (2009.07.06)
+--------------------------
+
+  - divided linetimings html file.
+  - Improved HTML output
+
+version 0.1.2 (2009.07.01)
+--------------------------
+
+  - Fixed coloring logic for 'ncalls' and 'tottime'.
+  - Improved HTML output
+  - change to HTML output under 'html' directory
+
+version 0.1.1 (2009.06.23)
+--------------------------
+
+  - Fixed can't convert hotshot linetimings profile.
+  - Improved HTML output
+
+version 0.1.0 (2009.06.21)
+--------------------------
+
+  - Initial release.
+
